@@ -996,8 +996,13 @@
 
 )
 
+<<<<<<< Updated upstream
 2021-09-15T08:38:51+00:00 ERROR Spec is invalid because the locale could not be retrieved in feed
 2021-09-15T08:38:51+00:00 ERROR stdClass Object
+=======
+2021-09-15T08:06:38+00:00 ERROR Spec is invalid because the locale could not be retrieved in feed
+2021-09-15T08:06:38+00:00 ERROR stdClass Object
+>>>>>>> Stashed changes
 (
     [slug] => mercadopago_q3_2021_ES
     [type] => marketing
@@ -1331,8 +1336,13 @@
 
 )
 
+<<<<<<< Updated upstream
 2021-09-15T08:38:51+00:00 ERROR Spec is invalid because the locale could not be retrieved in feed
 2021-09-15T08:38:51+00:00 ERROR stdClass Object
+=======
+2021-09-15T08:06:38+00:00 ERROR Spec is invalid because the locale could not be retrieved in feed
+2021-09-15T08:06:38+00:00 ERROR stdClass Object
+>>>>>>> Stashed changes
 (
     [slug] => mercadopago_q3_2021_PT
     [type] => marketing
@@ -1495,8 +1505,13 @@
 
 )
 
+<<<<<<< Updated upstream
 2021-09-15T08:38:59+00:00 ERROR Spec is invalid because the locale could not be retrieved in feed
 2021-09-15T08:38:59+00:00 ERROR stdClass Object
+=======
+2021-09-15T08:06:42+00:00 ERROR Spec is invalid because the locale could not be retrieved in feed
+2021-09-15T08:06:42+00:00 ERROR stdClass Object
+>>>>>>> Stashed changes
 (
     [slug] => mercadopago_q3_2021_ES
     [type] => marketing
@@ -1830,6 +1845,7 @@
 
 )
 
+<<<<<<< Updated upstream
 2021-09-15T08:38:59+00:00 ERROR Spec is invalid because the locale could not be retrieved in feed
 2021-09-15T08:38:59+00:00 ERROR stdClass Object
 (
@@ -2331,6 +2347,10 @@
 
 2021-09-15T08:39:08+00:00 ERROR Spec is invalid because the locale could not be retrieved in feed
 2021-09-15T08:39:08+00:00 ERROR stdClass Object
+=======
+2021-09-15T08:06:42+00:00 ERROR Spec is invalid because the locale could not be retrieved in feed
+2021-09-15T08:06:42+00:00 ERROR stdClass Object
+>>>>>>> Stashed changes
 (
     [slug] => mercadopago_q3_2021_PT
     [type] => marketing
